@@ -1,3 +1,4 @@
 qa/
+qa-v2/
+server.pid
 __pycache__/
-*.log
